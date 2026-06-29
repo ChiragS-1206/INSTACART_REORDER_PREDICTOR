@@ -1,0 +1,43 @@
+# ── Data files (download from Kaggle separately) ──
+data/*.csv
+data/*.zip
+
+# ── Model artifacts ──
+models/
+*.pkl
+
+# ── Output files ──
+outputs/
+*.csv
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Jupyter ──
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Virtual environments ──
+venv/
+.venv/
+env/
+ENV/
+
+# ── IDEs ──
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ── Logs ──
+*.log
