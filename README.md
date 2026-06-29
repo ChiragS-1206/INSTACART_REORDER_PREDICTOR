@@ -32,7 +32,7 @@ instacart-reorder-predictor/
 
 This project uses the **Instacart Market Basket Analysis** dataset from Kaggle.
 
-🔗 **[Download the dataset here](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)**
+🔗 **[Download the dataset here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)**
 
 After downloading, place the following CSV files inside the `data/` folder:
 
@@ -145,8 +145,4 @@ See `requirements.txt`. Key dependencies:
 - `xgboost`
 - `joblib`
 
----
-
-## 📜 License
-
-MIT License. Dataset belongs to Instacart and is subject to [Kaggle competition rules](https://www.kaggle.com/competitions/instacart-market-basket-analysis/rules).
+---------------------------------------------------------------
